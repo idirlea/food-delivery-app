@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+@available(iOS 15.0, *)
 struct SearchableSwiftUI3App: App {
     var body: some Scene {
         WindowGroup {
